@@ -26,6 +26,11 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
     
+header_pages:
+  - resume.md
+  - archive.md
+  - books.md
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -33,6 +38,9 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+
+# The github repo that is to be used for looking up comments
+comments_repo: taoshengshi/taoshengshi.github.io
 
 defaults:
   - scope:
