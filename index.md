@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+# Hi, I'm Taosheng Shi :wave:
 
-Maybe say a some things about yourself.
+Creator{Author/CEO/Researcher} of Data System
 
-Or maybe what you plan to blog about.
+Just some thoughts I've been thinking.
